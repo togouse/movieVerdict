@@ -1,0 +1,8 @@
+ [
+    { "$id": "1", "title":"Gone Girl","image":"https://images-na.ssl-images-amazon.com/images/I/51Srn9qAWFL._SX355_BO1,204,203,200_.jpg", "rating": "3", "releaseDate": "2014-02-22"},
+    {"$id": "2", "title":"The Good Life","image":"https://images-na.ssl-images-amazon.com/images/I/51qcNAv2o6L._SY346_.jpg", "rating": "0", "releaseDate": ""},
+    {"$id": "3", "title":"The Hero of Color City","image":"https://images-na.ssl-images-amazon.com/images/I/41Xkxc4Kn5L.jpg", "rating": "0", "releaseDate": "2014-11-23"},
+    {"$id": "4", "title":"Guardians of the Galaxy","image":"https://images-na.ssl-images-amazon.com/images/I/51Eh8qOSJlL.jpg", "rating": "5", "releaseDate": "2014-07-01"},
+    {"$id": "5", "title":"The Drop","image":"https://images-na.ssl-images-amazon.com/images/I/51aCR3KlifL._SX389_BO1,204,203,200_.jpg", "rating": "0", "releaseDate": "2014-12-01"},
+    {"$id": "6", "title":"If I Stay","image":"https://images-na.ssl-images-amazon.com/images/I/61v31u7-gSL.jpg", "rating": "0", "releaseDate": "2015-01-01"}
+]
